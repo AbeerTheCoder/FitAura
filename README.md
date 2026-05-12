@@ -52,7 +52,7 @@ FitAura is an AI-driven personalized outfit recommendation system designed to he
    The NLP module analyzes the text, extracts user intent, and maps the input to suitable fashion recommendations.
 
 7. **View the generated recommendation**  
-   The system presents outfit suggestions and, where applicable, generated visual outputs based on the selected 11 preferences.
+   The system presents outfit suggestions and generates visual outputs based on the selected 11 preferences.
 
 8. **Refine the results**  
    If the recommendation is not perfect, continue the conversation by choosing the modify outfit option.
